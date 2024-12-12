@@ -8,10 +8,42 @@ This project uses Convolutional Neural Networks (CNN) models to analyze health d
 Pregnancy Risk Detection Model
 This model uses relevant health features from the dataset to predict the level of pregnancy risk (High, Medium, Low) for users. This model is built using Convolutional Neural Networks (CNN), which enables high-accuracy health data analysis to support decision-making related to pregnancy care.
 
-## Dataset
-```
-
-```
+## Model
 In this App use 2 Model
 1. CLassification Model for Pregnancy Risk Classification
 2. Chatbot using Vertex AI Agent Builder Conversation
+
+## Dataset
+```
+https://drive.google.com/file/d/1ZpvL5YCr-1Rw_kAKpO38fs7oGMmakp8S/view
+```
+
+![](https://github.com/BangkitPeduliBumil/asset/blob/248cec9cfa48e637877265b34d08d29bf4bc50a5/data.png)
+
+## Pair Plot
+<img src="https://github.com/BangkitPeduliBumil/asset/blob/248cec9cfa48e637877265b34d08d29bf4bc50a5/pair-plot.png" alt="Pair Plot" width="50%">
+
+#### Description
+In this project, a pair plot is used to visualize the relationships between various health parameters of pregnant women, such as age, body temperature, Systolic Blood Pressure(mm Hg), Diastolic Blood Pressure(mm Hg), body mass index (BMI), blood sugar levels, and heart rate. This visualization helps us understand the patterns and correlations between variables that can contribute to the detection of pregnancy risks. With this analysis, we can identify the most relevant features for our prediction model.
+
+## Bar Plot
+![](https://github.com/BangkitPeduliBumil/asset/blob/248cec9cfa48e637877265b34d08d29bf4bc50a5/bar-plot.png)
+#### Description
+Bar plot is used to show the distribution of pregnancy risk categories (Low, Medium, High) based on health data. This visualization provides a clear picture of the prevalence of risk in the dataset.This bar plot also aids in the process of model evaluation and validation.
+
+## Libraries Used
+
+The following libraries were used in this project:
+
+| **Library**      | **Purpose**                                                                                   |
+|-------------------|-----------------------------------------------------------------------------------------------|
+| **NumPy**        | For numerical operations and array manipulation.                                              |
+| **Pandas**       | For manipulation and analysis of tabular data.                                                |
+| **Matplotlib & Seaborn** | For data visualization, such as feature distribution and prediction results.                |
+| **TensorFlow/Keras** | To build, train, and convert neural network models like CNN to TFLite format.              |
+| **scikit-learn**  | For data preprocessing, model evaluation, and implementation of clustering algorithms (K-Means). |
+| **NLTK/Spacy**    | For text processing in Natural Language Processing (NLP) on article recommendation models.    |
+| **TFLite**        | For converting machine learning models to a format compatible with mobile or edge devices.    |
+|
+
+
