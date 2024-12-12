@@ -11,7 +11,13 @@ This model uses relevant health features from the dataset to predict the level o
 ## Model
 In this App use 2 Model
 1. CLassification Model for Pregnancy Risk Classification
+```
+https://github.com/BangkitPeduliBumil/Machine-Learning/blob/efb3541930faaf407c36a9d1387c8b426b1f8581/ClassificationModel_PregenancyRisk_Notebook.ipynb
+```
 2. Chatbot using Vertex AI Agent Builder Conversation
+```
+https://github.com/BangkitPeduliBumil/Machine-Learning/tree/efb3541930faaf407c36a9d1387c8b426b1f8581/Data%20Vertex%20Used
+```
 
 ## Dataset
 ```
