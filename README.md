@@ -50,6 +50,14 @@ The following libraries were used in this project:
 | **scikit-learn**  | For data preprocessing, model evaluation, and implementation of clustering algorithms (K-Means). |
 | **NLTK/Spacy**    | For text processing in Natural Language Processing (NLP) on article recommendation models.    |
 | **TFLite**        | For converting machine learning models to a format compatible with mobile or edge devices.    |
-|
+
+## 🧑‍🤝‍🧑  Mechine Learning Team 
+
+|  No. | Member                          | Student ID   | Learning Path        | GitHub            |
+|------|---------------------------------|--------------|----------------------|-------------------|
+|   1  | Muhamad Sahidul Akhfa           | M122B4KY2662 | :brain: Machine Learning     | [![GitHub](https://img.shields.io/badge/-GitHub-brightgreen?logo=github&logoColor=white)](https://github.com/sahidoel) |
+|   2  | Farras Fajar Hadi               | M122B4KY1420 | :brain: Machine Learning     | [![GitHub](https://img.shields.io/badge/-GitHub-brightgreen?logo=github&logoColor=white)](https://github.com/FajarHadi1) |
+|   3  | Irfan Al Falah                  | M265B4KY2001 | :brain: Machine Learning     | [![GitHub](https://img.shields.io/badge/-GitHub-brightgreen?logo=github&logoColor=white)](https://github.com/irfanalfalah75) |
+
 
 
